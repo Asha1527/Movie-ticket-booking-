@@ -15,6 +15,7 @@ Frontend languages -
 1. HTML
 2. CSS
 3. Bootstrap
+
 Backend languages –
 1. PHP
 2. JavaScript
